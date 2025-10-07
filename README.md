@@ -8,6 +8,5 @@ This Jupyter Notebook explains the concept of **tensors** — the core data stru
 ### Contents
 - A clear **definition** and **conceptual explanation** of tensors  
 - **Dimensional examples** (scalar, vector, matrix, tensor)  
-- **Python code   
-*
+- **Python code
 
