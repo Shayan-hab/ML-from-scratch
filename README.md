@@ -17,3 +17,4 @@ This section provides a detailed, step-by-step explanation of the entire process
 
 ## 3. 🧩 How to Frame a Problem
 In this notebook, we learned how to frame a real-world business problem into a Machine Learning problem by understanding its type, existing solutions, required data, evaluation metrics, and assumptions.
+---
