@@ -25,3 +25,4 @@ In this notebook, we learned how to frame a real-world business problem into a M
 This section explains how to collect and manage data for machine learning projects using different sources — **CSV files**, **JSON/SQL databases**, and **APIs**.  
 It demonstrates how data is imported, processed, and prepared for analysis to build a strong foundation for model development.
 
+---
