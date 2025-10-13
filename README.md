@@ -11,7 +11,7 @@ This Jupyter Notebook explains the concept of **tensors** — the core data stru
 ---
 
 ## 2. 🤖 Machine Learning Development Life Cycle (MLDLC)
-This section provides a detailed, step-by-step explanation of the entire process used in this project, from data exploration to model training and visualization. I make a flowchart for better understanding of all the process.
+This section provides a detailed, step-by-step explanation of the entire process used in this project, from data exploration to model training and visualization. A flowchart has been created to provide a clearer understanding of the overall process.
 
 ---
 
