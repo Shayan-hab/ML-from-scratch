@@ -27,4 +27,4 @@ It demonstrates how data is imported, processed, and prepared for analysis to bu
 
 ---
 
-## 4. 🧠 Understanding Your Data  
+## 5. 🧠 Understanding Your Data  
