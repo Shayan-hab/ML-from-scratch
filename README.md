@@ -28,3 +28,8 @@ It demonstrates how data is imported, processed, and prepared for analysis to bu
 ---
 
 ## 5. 🧠 Understanding Your Data  
+This section focuses on exploring and analyzing datasets to uncover patterns, detect data quality issues, and prepare meaningful insights before model building.  
+Understanding your data is the foundation of every successful machine learning project.
+
+
+
