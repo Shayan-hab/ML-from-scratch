@@ -35,8 +35,10 @@ Bivariate and Multivariate Analysis.
 
 ---
 
-## 5. pandas-profiling-library
+## 6. pandas-profiling-library
+Pandas Profiling generates detailed exploratory data analysis (EDA) reports from a pandas DataFrame with just a few lines of code.
 
+---
 
 
 
