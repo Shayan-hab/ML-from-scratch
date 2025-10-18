@@ -40,7 +40,7 @@ Pandas Profiling generates detailed exploratory data analysis (EDA) reports from
 
 ---
 
-## 6. Feature Engineering
+## 7. Feature Engineering
 
 
 
