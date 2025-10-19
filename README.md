@@ -45,6 +45,8 @@ Pandas Profiling generates detailed exploratory data analysis (EDA) reports from
 
 ---
 
+## 8. How to Use Generative AI for Your Projects
 
+---
 
 
